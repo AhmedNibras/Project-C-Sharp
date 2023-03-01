@@ -1,0 +1,9 @@
+C:\Users\Nibras Ahmed\Desktop\XML Project\ClientApplication\bin\Debug\ClientApplication.exe.config
+C:\Users\Nibras Ahmed\Desktop\XML Project\ClientApplication\bin\Debug\ClientApplication.exe
+C:\Users\Nibras Ahmed\Desktop\XML Project\ClientApplication\bin\Debug\ClientApplication.pdb
+C:\Users\Nibras Ahmed\Desktop\XML Project\ClientApplication\bin\Debug\SongProject.dll
+C:\Users\Nibras Ahmed\Desktop\XML Project\ClientApplication\bin\Debug\SongProject.pdb
+C:\Users\Nibras Ahmed\Desktop\XML Project\ClientApplication\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\Nibras Ahmed\Desktop\XML Project\ClientApplication\obj\Debug\ClientApplication.csproj.CopyComplete
+C:\Users\Nibras Ahmed\Desktop\XML Project\ClientApplication\obj\Debug\ClientApplication.exe
+C:\Users\Nibras Ahmed\Desktop\XML Project\ClientApplication\obj\Debug\ClientApplication.pdb

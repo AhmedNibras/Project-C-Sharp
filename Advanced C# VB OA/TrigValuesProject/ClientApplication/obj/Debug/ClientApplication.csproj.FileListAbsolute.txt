@@ -1,0 +1,10 @@
+C:\Users\Nibras Ahmed\Desktop\XML Project\TrigValuesProject\ClientApplication\bin\Debug\ClientApplication.exe.config
+C:\Users\Nibras Ahmed\Desktop\XML Project\TrigValuesProject\ClientApplication\bin\Debug\ClientApplication.exe
+C:\Users\Nibras Ahmed\Desktop\XML Project\TrigValuesProject\ClientApplication\bin\Debug\ClientApplication.pdb
+C:\Users\Nibras Ahmed\Desktop\XML Project\TrigValuesProject\ClientApplication\bin\Debug\TrigValueLibrary.dll
+C:\Users\Nibras Ahmed\Desktop\XML Project\TrigValuesProject\ClientApplication\bin\Debug\TrigValueLibrary.pdb
+C:\Users\Nibras Ahmed\Desktop\XML Project\TrigValuesProject\ClientApplication\obj\Debug\ClientApplication.csproj.AssemblyReference.cache
+C:\Users\Nibras Ahmed\Desktop\XML Project\TrigValuesProject\ClientApplication\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\Nibras Ahmed\Desktop\XML Project\TrigValuesProject\ClientApplication\obj\Debug\ClientApplication.csproj.CopyComplete
+C:\Users\Nibras Ahmed\Desktop\XML Project\TrigValuesProject\ClientApplication\obj\Debug\ClientApplication.exe
+C:\Users\Nibras Ahmed\Desktop\XML Project\TrigValuesProject\ClientApplication\obj\Debug\ClientApplication.pdb

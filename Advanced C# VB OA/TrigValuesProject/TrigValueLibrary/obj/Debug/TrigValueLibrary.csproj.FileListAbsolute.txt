@@ -1,0 +1,6 @@
+C:\Users\Nibras Ahmed\source\repos\TrigValueLibrary\bin\Debug\TrigValueLibrary.dll
+C:\Users\Nibras Ahmed\source\repos\TrigValueLibrary\bin\Debug\TrigValueLibrary.pdb
+C:\Users\Nibras Ahmed\source\repos\TrigValueLibrary\obj\Debug\TrigValueLibrary.csproj.AssemblyReference.cache
+C:\Users\Nibras Ahmed\source\repos\TrigValueLibrary\obj\Debug\TrigValueLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nibras Ahmed\source\repos\TrigValueLibrary\obj\Debug\TrigValueLibrary.dll
+C:\Users\Nibras Ahmed\source\repos\TrigValueLibrary\obj\Debug\TrigValueLibrary.pdb

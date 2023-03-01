@@ -1,0 +1,5 @@
+C:\Users\Nibras Ahmed\Desktop\XML Project\SongProject\bin\Debug\SongProject.dll
+C:\Users\Nibras Ahmed\Desktop\XML Project\SongProject\bin\Debug\SongProject.pdb
+C:\Users\Nibras Ahmed\Desktop\XML Project\SongProject\obj\Debug\SongProject.csproj.CoreCompileInputs.cache
+C:\Users\Nibras Ahmed\Desktop\XML Project\SongProject\obj\Debug\SongProject.dll
+C:\Users\Nibras Ahmed\Desktop\XML Project\SongProject\obj\Debug\SongProject.pdb

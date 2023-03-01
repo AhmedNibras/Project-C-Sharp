@@ -1,0 +1,10 @@
+C:\Users\Nibras Ahmed\Desktop\XML Project\ContactProject\ClientApplication\bin\Debug\ClientApplication.exe.config
+C:\Users\Nibras Ahmed\Desktop\XML Project\ContactProject\ClientApplication\bin\Debug\ClientApplication.exe
+C:\Users\Nibras Ahmed\Desktop\XML Project\ContactProject\ClientApplication\bin\Debug\ClientApplication.pdb
+C:\Users\Nibras Ahmed\Desktop\XML Project\ContactProject\ClientApplication\bin\Debug\ContactLibrary.dll
+C:\Users\Nibras Ahmed\Desktop\XML Project\ContactProject\ClientApplication\bin\Debug\ContactLibrary.pdb
+C:\Users\Nibras Ahmed\Desktop\XML Project\ContactProject\ClientApplication\obj\Debug\ClientApplication.csproj.AssemblyReference.cache
+C:\Users\Nibras Ahmed\Desktop\XML Project\ContactProject\ClientApplication\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\Nibras Ahmed\Desktop\XML Project\ContactProject\ClientApplication\obj\Debug\ClientApplication.csproj.CopyComplete
+C:\Users\Nibras Ahmed\Desktop\XML Project\ContactProject\ClientApplication\obj\Debug\ClientApplication.exe
+C:\Users\Nibras Ahmed\Desktop\XML Project\ContactProject\ClientApplication\obj\Debug\ClientApplication.pdb

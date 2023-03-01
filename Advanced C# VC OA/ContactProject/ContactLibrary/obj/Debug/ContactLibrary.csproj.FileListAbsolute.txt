@@ -1,0 +1,5 @@
+C:\Users\Nibras Ahmed\Desktop\XML Project\ContactProject\ContactLibrary\bin\Debug\ContactLibrary.dll
+C:\Users\Nibras Ahmed\Desktop\XML Project\ContactProject\ContactLibrary\bin\Debug\ContactLibrary.pdb
+C:\Users\Nibras Ahmed\Desktop\XML Project\ContactProject\ContactLibrary\obj\Debug\ContactLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nibras Ahmed\Desktop\XML Project\ContactProject\ContactLibrary\obj\Debug\ContactLibrary.dll
+C:\Users\Nibras Ahmed\Desktop\XML Project\ContactProject\ContactLibrary\obj\Debug\ContactLibrary.pdb

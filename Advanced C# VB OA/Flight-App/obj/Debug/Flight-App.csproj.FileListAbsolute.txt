@@ -1,0 +1,10 @@
+C:\Users\Nibras Ahmed\source\repos\Flight-App\bin\Debug\Flight-App.exe.config
+C:\Users\Nibras Ahmed\source\repos\Flight-App\bin\Debug\Flight-App.exe
+C:\Users\Nibras Ahmed\source\repos\Flight-App\bin\Debug\Flight-App.pdb
+C:\Users\Nibras Ahmed\source\repos\Flight-App\obj\Debug\Flight-App.csproj.AssemblyReference.cache
+C:\Users\Nibras Ahmed\source\repos\Flight-App\obj\Debug\Flight_App.Form1.resources
+C:\Users\Nibras Ahmed\source\repos\Flight-App\obj\Debug\Flight_App.Properties.Resources.resources
+C:\Users\Nibras Ahmed\source\repos\Flight-App\obj\Debug\Flight-App.csproj.GenerateResource.cache
+C:\Users\Nibras Ahmed\source\repos\Flight-App\obj\Debug\Flight-App.csproj.CoreCompileInputs.cache
+C:\Users\Nibras Ahmed\source\repos\Flight-App\obj\Debug\Flight-App.exe
+C:\Users\Nibras Ahmed\source\repos\Flight-App\obj\Debug\Flight-App.pdb

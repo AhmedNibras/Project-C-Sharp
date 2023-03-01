@@ -1,0 +1,10 @@
+C:\Users\Nibras Ahmed\source\repos\Shoprite\obj\Debug\Shoprite.csproj.AssemblyReference.cache
+C:\Users\Nibras Ahmed\source\repos\Shoprite\obj\Debug\Shoprite.Form1.resources
+C:\Users\Nibras Ahmed\source\repos\Shoprite\obj\Debug\Shoprite.Properties.Resources.resources
+C:\Users\Nibras Ahmed\source\repos\Shoprite\obj\Debug\Shoprite.csproj.GenerateResource.cache
+C:\Users\Nibras Ahmed\source\repos\Shoprite\obj\Debug\Shoprite.csproj.CoreCompileInputs.cache
+C:\Users\Nibras Ahmed\source\repos\Shoprite\bin\Debug\Shoprite.exe.config
+C:\Users\Nibras Ahmed\source\repos\Shoprite\bin\Debug\Shoprite.exe
+C:\Users\Nibras Ahmed\source\repos\Shoprite\bin\Debug\Shoprite.pdb
+C:\Users\Nibras Ahmed\source\repos\Shoprite\obj\Debug\Shoprite.exe
+C:\Users\Nibras Ahmed\source\repos\Shoprite\obj\Debug\Shoprite.pdb
